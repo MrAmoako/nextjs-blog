@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://MrAmoako.github.io/portfolio",
+  "homepage": "http://MrAmoako.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,8 @@
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
